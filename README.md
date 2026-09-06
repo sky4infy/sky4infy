@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20sky4infy%20%7C%20Building%20with%20data%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/sky4infy">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=650&lines=First-Year+B.Tech+Student+%40+NIAMT%2C+Ranchi;Machine+Learning+%2B+Data+Enthusiast;Building+Real-Time+%26+Production-Grade+Systems;Turning+Messy+Data+Into+Working+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=650&lines=Pre-final Year+B.Tech+Student+%40+NIAMT%2C+Ranchi;Machine+Learning+%2B+Data+Enthusiast;Building+Real-Time+%26+Production-Grade+Systems;Turning+Messy+Data+Into+Working+Models" alt="Typing SVG" />
 </a>
 
 <br/>
