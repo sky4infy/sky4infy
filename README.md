@@ -21,7 +21,7 @@
 ```yaml
 name: Akash Kumar
 handle: sky4infy
-role: First-Year B.Tech Undergraduate
+role: Pre-final Year B.Tech Undergraduate
 institute: NIAMT, Ranchi
 focus: [Machine Learning, Data Science, NLP, Backend & Systems Engineering]
 philosophy: "Learn a concept, break it, rebuild it, ship it."
@@ -31,7 +31,7 @@ philosophy: "Learn a concept, break it, rebuild it, ship it."
 - ⚙️ Lately I'm drawn to the systems side of ML: serving models efficiently, async pipelines, and the engineering that sits *around* a model, not just the model itself
 - 🧠 I like problems where preprocessing, architecture, or measurement decides the outcome more than the algorithm does
 - 📈 I also tinker with real-world/financial data (NSE option chains) outside of coursework
-- 🌱 As a first-year student, I'm actively leveling up in DS/ML, backend dev, and production-engineering practices
+- 🌱 As a prefinal-year student, I'm actively leveling up in DS/ML, backend dev, and production-engineering practices
 - ⚡ Fun fact: most of my repos start as "let me just try this quickly" and turn into full pipelines
 
 <br/>
