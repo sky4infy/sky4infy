@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20sky4infy%20%7C%20Building%20with%20data%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/sky4infy">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=650&lines=Pre-final +Year+B.Tech+Student+%40+NIAMT%2C+Ranchi;Machine+Learning+%2B+Data+Enthusiast;Building+Real-Time+%26+Production-Grade+Systems;Turning+Messy+Data+Into+Working+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=650&lines=Pre-Final+Year+B.Tech+Student+%40+NIAMT%2C+Ranchi;Machine+Learning+%2B+Data+Enthusiast;Building+Real-Time+%26+Production-Grade+Systems;Turning+Messy+Data+Into+Working+Models" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 ```yaml
 name: Akash Kumar
 handle: sky4infy
-role: Pre-final Year B.Tech Undergraduate
+role: Pre-Final Year B.Tech Undergraduate
 institute: NIAMT, Ranchi
 focus: [Machine Learning, Data Science, NLP, Backend & Systems Engineering]
 philosophy: "Learn a concept, break it, rebuild it, ship it."
@@ -31,7 +31,7 @@ philosophy: "Learn a concept, break it, rebuild it, ship it."
 - ⚙️ Lately I'm drawn to the systems side of ML: serving models efficiently, async pipelines, and the engineering that sits *around* a model, not just the model itself
 - 🧠 I like problems where preprocessing, architecture, or measurement decides the outcome more than the algorithm does
 - 📈 I also tinker with real-world/financial data (NSE option chains) outside of coursework
-- 🌱 As a prefinal-year student, I'm actively leveling up in DS/ML, backend dev, and production-engineering practices
+- 🌱 As a pre-final year student, I'm actively leveling up in DS/ML, backend dev, and production-engineering practices ahead of internship/placement season
 - ⚡ Fun fact: most of my repos start as "let me just try this quickly" and turn into full pipelines
 
 <br/>
@@ -204,7 +204,7 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 ### 💭 Quote I code by
 
-> *"The data doesn't lie — but it does need to be cleaned first."*
+> *"A benchmark you haven't tried to break isn't a result — it's a guess with better formatting."*
 
 <br/>
 
