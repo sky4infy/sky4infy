@@ -90,7 +90,7 @@ philosophy: "Learn a concept, break it, rebuild it, ship it."
 
 A full-duplex, bidirectional speech-to-speech translation platform enabling natural, real-time audio conversations across 16+ global and Indic languages with live language switching.
 
-- **Decoupled Perceptual Streaming (<300ms latency):** Decouples translated text delivery from neural audio synthesis, streaming translated transcripts to the listener in **sub-300ms** so users read in real-time while audio buffers concurrently in the background.
+- **Decoupled Perceptual Streaming (<350ms text latency):** Decouples translated text delivery from neural audio synthesis, streaming translated transcripts to the listener in **sub-350ms (P50: ~180ms)** so users read instantaneously while audio synthesizes and buffers concurrently (full speech-to-speech under ~1,100ms P95).
 - **Neural Voice Activity Detection (Silero VAD):** Replaced heuristic RMS thresholds with Silero VAD (ONNX) evaluating 512-sample (32ms) windows to overcome browser AutoGainControl (AGC) distortion, reducing speech pause triggers to **0.45s**.
 - **Hybrid STT with In-Place Failover:** Streams via Deepgram Nova-2 with an automatic, in-place fallback to local quantized `faster-whisper` (int8, 4 CPU threads) for Indic languages or API connection drops.
 - **Dual-Engine MT with Sub-Millisecond Caching:** Routes dynamically between Helsinki-NLP MarianMT and AI4Bharat IndicTrans2 with `torch.inference_mode()`, HuggingFace Hub pre-caching, and an LRU phrase cache (0.01ms hit latency).
