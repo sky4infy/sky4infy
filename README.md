@@ -204,7 +204,7 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 <div align="center">
 
-### 💭 Quote I code by
+### 💭 Quote I code by is
 
 > *"A benchmark you haven't tried to break isn't a result — it's a guess with better formatting."*
 
