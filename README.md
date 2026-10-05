@@ -30,7 +30,7 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 - 🔭 **End-to-End Builder:** I turn messy, unformatted real-world data and architectural designs into working, production-grade applications — from raw audio streams to low-latency deployed systems.
 - ⚙️ **Systems & Inference Engineering:** Deeply passionate about the engineering *surrounding* AI models: async batching, ONNX INT8 quantization, Redis cache-aside architectures, and sub-millisecond decoupled streaming.
-- 🪐 **Data Persistence & Local-First Engines:** Architecting zero-latency, offline-resilient data architectures with IndexedDB/Dexie.js, reactive synchronization pipelines, and bi-directional Supabase cloud replication.
+- 🪐 **Data Persistence & State Engines:** Architecting zero-latency, offline-resilient data storage with embedded transactional state (IndexedDB), reactive synchronization pipelines, and bi-directional Supabase cloud replication.
 - 🧠 **Empirical Mindset:** I don't guess performance numbers — every latency claim, memory footprint reduction, and throughput metric is benchmarked and validated.
 - 🌱 **Career Focus:** Actively sharpening my algorithms, systems programming, and production ML practices ahead of upcoming software engineering & AI/ML opportunities.
 
@@ -44,7 +44,6 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
 
@@ -94,7 +93,7 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 An intelligent, local-first Academic Operating System for STEM/JEE and College CS/AI-ML students that closes the loop between daily study sessions, cognitive fatigue protection, error taxonomy logging, and long-term memory retention.
 
-- **Local-First Zero-Latency Architecture:** Engineered with Dexie.js (IndexedDB) for instantaneous sub-millisecond client state and full offline resilience, paired with bi-directional Supabase (PostgreSQL) cloud synchronization and conflict resolution.
+- **Local-First Zero-Latency Architecture:** Engineered with embedded transactional client storage (IndexedDB) for instantaneous sub-millisecond local queries and full offline resilience, paired with bi-directional Supabase (PostgreSQL) cloud synchronization and conflict resolution.
 - **Adaptive Memory Retention (FSRS & SM-2):** Powers automated spaced-repetition flashcard and revision cycles using dynamic difficulty decay and review forecasting to optimize long-term cognitive recall.
 - **Cognitive Fatigue Shield:** Continuously computes daily cognitive load, sleep, and energy levels to dynamically throttle study intervals and protect students from burnout.
 - **Root-Cause Error Taxonomy:** Auto-categorizes examination and practice mistakes (*Conceptual, Calculation, Misread*) into an automated feedback loop for targeted remediation.
@@ -180,7 +179,7 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 | Project | Domain | Tech Stack | Highlights |
 |---|---|---|---|
-| 🪐 **[Orbit-web](https://github.com/sky4infy/Orbit-web)** | Academic Systems / EdTech | TypeScript, Dexie.js, Supabase | Local-first adaptive academic OS with FSRS retention & fatigue throttling |
+| 🪐 **[Orbit-web](https://github.com/sky4infy/Orbit-web)** | Academic Systems / EdTech | IndexedDB, Supabase, FSRS Engine | Local-first adaptive academic OS with FSRS retention & fatigue throttling |
 | 🌐 **[real-time-conv-arch2-working](https://github.com/sky4infy/real-time-conv-arch2-working)** | Speech AI / Real-Time | FastAPI, Silero VAD, Faster-Whisper, IndicTrans2 | Sub-350ms full-duplex speech-to-speech translation platform |
 | ⚡ **[production-ml-inference-server](https://github.com/sky4infy/production-ml-inference-server)** | Systems / MLOps | FastAPI, ONNX INT8, Redis, Prometheus | Low-latency CPU inference server with empirical benchmarking |
 | 🥉 **[ieee-kaggle-ml-competition](https://github.com/sky4infy/ieee-kaggle-ml-competition)** | Competitive ML | Python, Scikit-learn, Feature Engineering | **Winner #3** in IEEE NIAMT Kaggle Machine Learning Competition |
