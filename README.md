@@ -24,15 +24,15 @@ name: Akash Kumar
 handle: sky4infy
 role: Pre-Final Year B.Tech Undergraduate
 institute: NIAMT, Ranchi
-focus: [Machine Learning & NLP, Real-Time Inference, Systems Engineering, Backend Architecture]
+focus: [Machine Learning & NLP, Real-Time Inference, Distributed Systems, Backend Architecture]
 philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 ```
 
 - 🔭 **End-to-End Builder:** I turn messy, unformatted real-world data and architectural designs into working, production-grade applications — from raw audio streams to low-latency deployed systems.
 - ⚙️ **Systems & Inference Engineering:** Deeply passionate about the engineering *surrounding* AI models: async batching, ONNX INT8 quantization, Redis cache-aside architectures, and sub-millisecond decoupled streaming.
-- 🪐 **Client State & Local-First Engineering:** Architecting zero-latency, offline-resilient application state with Dexie.js (IndexedDB), reactive TypeScript client cores, and bi-directional Supabase cloud synchronization.
+- 🪐 **Data Persistence & Local-First Engines:** Architecting zero-latency, offline-resilient data architectures with IndexedDB/Dexie.js, reactive synchronization pipelines, and bi-directional Supabase cloud replication.
 - 🧠 **Empirical Mindset:** I don't guess performance numbers — every latency claim, memory footprint reduction, and throughput metric is benchmarked and validated.
-- 🌱 **Career Focus:** Actively sharpening my algorithms, systems programming, and production ML practices ahead of upcoming software engineering & AI/ML internship/placement opportunities.
+- 🌱 **Career Focus:** Actively sharpening my algorithms, systems programming, and production ML practices ahead of upcoming software engineering & AI/ML opportunities.
 
 <br/>
 
@@ -42,12 +42,9 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 ### 💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
 
@@ -65,21 +62,12 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 <br/>
 
-### 🌐 Web Technologies & Client Architecture
-<img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Dexie.js%20(IndexedDB)-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
-<br/>
-
-### ⚙️ Backend, Cloud & Distributed Systems
+### ⚙️ Backend, Storage & Cloud Systems
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase%20(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
@@ -97,8 +85,6 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Next.js-14_App_Router-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Architecture-Local--First-8957E5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Storage-IndexedDB_%2B_Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Retention-FSRS_%2F_SM--2-FF6F00?style=for-the-badge" />
@@ -108,11 +94,11 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 An intelligent, local-first Academic Operating System for STEM/JEE and College CS/AI-ML students that closes the loop between daily study sessions, cognitive fatigue protection, error taxonomy logging, and long-term memory retention.
 
-- **Local-First Zero-Latency Architecture:** Engineered with Dexie.js (IndexedDB) for instantaneous sub-millisecond client state and full offline PWA resilience, paired with bi-directional Supabase (PostgreSQL) cloud synchronization and conflict resolution.
+- **Local-First Zero-Latency Architecture:** Engineered with Dexie.js (IndexedDB) for instantaneous sub-millisecond client state and full offline resilience, paired with bi-directional Supabase (PostgreSQL) cloud synchronization and conflict resolution.
 - **Adaptive Memory Retention (FSRS & SM-2):** Powers automated spaced-repetition flashcard and revision cycles using dynamic difficulty decay and review forecasting to optimize long-term cognitive recall.
 - **Cognitive Fatigue Shield:** Continuously computes daily cognitive load, sleep, and energy levels to dynamically throttle study intervals and protect students from burnout.
 - **Root-Cause Error Taxonomy:** Auto-categorizes examination and practice mistakes (*Conceptual, Calculation, Misread*) into an automated feedback loop for targeted remediation.
-- **Fluid Micro-Interactions:** Modern UI crafted with Next.js 14, Tailwind CSS, Framer Motion animations, and interactive progress heatmaps.
+- **State Synchronization Engine:** Decoupled persistence layer featuring transactional client storage, background sync queues, and resilient conflict handling.
 
 **[→ View Repository](https://github.com/sky4infy/Orbit-web)**
 
@@ -125,7 +111,7 @@ An intelligent, local-first Academic Operating System for STEM/JEE and College C
 <a href="https://real-time-conv-arch2-920695810067.us-central1.run.app"><img src="https://img.shields.io/badge/demo-live-3FB950?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/python-3.12-1F6FEB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/backend-FastAPI-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/frontend-React%2FVite-8957E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/streaming-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/VAD-Silero%20ONNX-005CED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/license-MIT-484F58?style=for-the-badge" />
 
@@ -181,9 +167,6 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 <a href="https://github.com/sky4infy/production-ml-inference-server">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sky4infy&repo=production-ml-inference-server&theme=radical" />
 </a>
-<a href="https://github.com/sky4infy/Limit-order-Book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sky4infy&repo=Limit-order-Book&theme=radical" />
-</a>
 <a href="https://github.com/sky4infy/ieee-kaggle-ml-competition">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sky4infy&repo=ieee-kaggle-ml-competition&theme=radical" />
 </a>
@@ -197,17 +180,15 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 | Project | Domain | Tech Stack | Highlights |
 |---|---|---|---|
-| 🪐 **[Orbit-web](https://github.com/sky4infy/Orbit-web)** | Academic Systems / EdTech | Next.js 14, TypeScript, Dexie.js, Supabase | Local-first adaptive academic OS with FSRS retention & fatigue throttling |
+| 🪐 **[Orbit-web](https://github.com/sky4infy/Orbit-web)** | Academic Systems / EdTech | TypeScript, Dexie.js, Supabase | Local-first adaptive academic OS with FSRS retention & fatigue throttling |
 | 🌐 **[real-time-conv-arch2-working](https://github.com/sky4infy/real-time-conv-arch2-working)** | Speech AI / Real-Time | FastAPI, Silero VAD, Faster-Whisper, IndicTrans2 | Sub-350ms full-duplex speech-to-speech translation platform |
 | ⚡ **[production-ml-inference-server](https://github.com/sky4infy/production-ml-inference-server)** | Systems / MLOps | FastAPI, ONNX INT8, Redis, Prometheus | Low-latency CPU inference server with empirical benchmarking |
-| 🏎️ **[Limit-order-Book](https://github.com/sky4infy/Limit-order-Book)** | Systems / FinTech | C++, Low-Latency Data Structures | High-throughput limit order book & matching engine implementing FIFO queues |
 | 🥉 **[ieee-kaggle-ml-competition](https://github.com/sky4infy/ieee-kaggle-ml-competition)** | Competitive ML | Python, Scikit-learn, Feature Engineering | **Winner #3** in IEEE NIAMT Kaggle Machine Learning Competition |
 | 🎯 **[amazon-ml-challenge-2026-v4](https://github.com/sky4infy/amazon-ml-challenge-2026-v4)** | Multimodal AI | PyTorch, Computer Vision, NLP | Large-scale product attribute extraction pipeline from text and images |
 | 📊 **[nifty-option-chain](https://github.com/sky4infy/nifty-option-chain)** | Quantitative / Finance | Python, Requests, Pandas, NSE API | Real-time NSE NIFTY option chain live scraper, cleaner, and data parser |
 | 🧬 **[autism-spectrum-disorder-prediction](https://github.com/sky4infy/autism-spectrum-disorder-prediction)** | Healthcare ML | Scikit-learn, SMOTE, Random Forest | Imbalanced medical classification pipeline with statistical EDA |
 | 🏠 **[House-Price-Prediction-ML](https://github.com/sky4infy/House-Price-Prediction-ML)** | Core ML | Scikit-learn Pipelines, Regression | End-to-end regression pipeline with feature engineering and model tuning |
 | 💬 **[Sentiment-Analysis-NLP](https://github.com/sky4infy/Sentiment-Analysis-NLP)** | NLP | spaCy, Random Forest | Text preprocessing, tokenization, lemmatization, and sentiment classification |
-| 💼 **[career-portal-flask](https://github.com/sky4infy/career-portal-flask)** | Web / Backend | Flask, HTML5, SQLite | Web application for posting, managing, and browsing career opportunities |
 
 <br/>
 
@@ -244,10 +225,10 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 ```
 [■■■■■■■■□□] Production ML & Low-Latency Serving (FastAPI, ONNX INT8, WebSockets)
-[■■■■■■■■□□] Local-First Architecture & State Engines (IndexedDB, Dexie, Supabase)
+[■■■■■■■■□□] Distributed Backend Systems & State Engines (PostgreSQL, Redis, AsyncIO)
 [■■■■■■■□□□] Deep Learning, STT & Multilingual NLP (Whisper, IndicTrans2, Silero VAD)
-[■■■■■■■□□□] Systems Programming & Low-Latency Computing (C++, Memory Profiling)
-[■■■■■■□□□□] Distributed MLOps & Observability (Docker, Redis, Prometheus/Grafana, Cloud Run)
+[■■■■■■■□□□] Systems Programming & Performance Profiling (C++, Benchmarking)
+[■■■■■■□□□□] Cloud Infrastructure & Observability (Docker, Prometheus/Grafana, Cloud Run)
 ```
 
 <br/>
@@ -256,8 +237,12 @@ A DistilBERT sentiment model served on CPU-only hardware behind an async batchin
 
 <div align="center">
 
-<a href="mailto:akash4infy@gmail.com">
+<a href="mailto:akash451kr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akash-kumar-0837a2343/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sky4infy">
