@@ -80,29 +80,6 @@ philosophy: "Learn a concept, benchmark it, break it, rebuild it, ship it."
 
 ## 🏗️ Featured Projects
 
-### 🪐 Orbit — Adaptive Academic Operating System
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Architecture-Local--First-8957E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Storage-IndexedDB_%2B_Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Retention-FSRS_%2F_SM--2-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/license-MIT-484F58?style=for-the-badge" />
-
-</div>
-
-An intelligent, local-first Academic Operating System for STEM/JEE and College CS/AI-ML students that closes the loop between daily study sessions, cognitive fatigue protection, error taxonomy logging, and long-term memory retention.
-
-- **Local-First Zero-Latency Architecture:** Engineered with embedded transactional client storage (IndexedDB) for instantaneous sub-millisecond local queries and full offline resilience, paired with bi-directional Supabase (PostgreSQL) cloud synchronization and conflict resolution.
-- **Adaptive Memory Retention (FSRS & SM-2):** Powers automated spaced-repetition flashcard and revision cycles using dynamic difficulty decay and review forecasting to optimize long-term cognitive recall.
-- **Cognitive Fatigue Shield:** Continuously computes daily cognitive load, sleep, and energy levels to dynamically throttle study intervals and protect students from burnout.
-- **Root-Cause Error Taxonomy:** Auto-categorizes examination and practice mistakes (*Conceptual, Calculation, Misread*) into an automated feedback loop for targeted remediation.
-- **State Synchronization Engine:** Decoupled persistence layer featuring transactional client storage, background sync queues, and resilient conflict handling.
-
-**[→ View Repository](https://github.com/sky4infy/Orbit-web)**
-
-<br/>
-
 ### 🌐 Real-Time Multilingual Speech-to-Speech Platform
 
 <div align="left">
